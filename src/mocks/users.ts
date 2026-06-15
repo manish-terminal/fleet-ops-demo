@@ -10,7 +10,7 @@ export const mockUsers = [
 export const mockUserProfiles: Record<string, User> = {
   'admin@fleetops.demo': {
     id: 'usr-admin',
-    name: 'Anush ',
+    name: 'Arun ',
     email: 'admin@fleetops.demo',
     role: 'admin',
     avatarUrl: 'https://api.dicebear.com/7.x/avataaars/svg?seed=Rajesh',
